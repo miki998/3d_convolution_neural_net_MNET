@@ -1,4 +1,11 @@
 ### 3D Convolutional Neural Network
+![](https://img.shields.io/badge/<Implementation>-<keras>-<success>)
+![](https://img.shields.io/badge/<Implementation>-<pytorch>-<success>)
+
+
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R11K2H4)
+
 
 Download the dataset and helper function on kaggle following this link: 
 https://www.kaggle.com/daavoo/3d-mnist
